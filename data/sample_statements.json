@@ -1,0 +1,18 @@
+[
+  {
+    "label": "hawkish",
+    "text": "The Committee judges that elevated inflation remains a primary concern, with upside risk to the outlook. In light of persistently high price pressures and a strong labor market showing signs of excess demand, the Committee anticipates that further increases in the target range will be appropriate. The Committee remains vigilant to inflationary pressure and is firmly committed to restoring price stability, even if that requires additional policy firming over a sustained period."
+  },
+  {
+    "label": "dovish",
+    "text": "Recent data point to a moderating inflation trend alongside signs of labor market cooling and broader economic weakness. Reflecting downside risk to growth, the Committee has decided to cut rates, and judges that a somewhat more accommodative stance will best support the economy through this transition. The Committee will proceed gradually and remains prepared to take further action to loosen policy if slack continues to build."
+  },
+  {
+    "label": "neutral",
+    "text": "The Committee met to review incoming economic data since the last meeting. Inflation and employment indicators were broadly in line with expectations. The Committee decided to maintain the current target range and will continue to assess incoming information in determining the appropriate path of policy."
+  },
+  {
+    "label": "mixed",
+    "text": "While inflation has shown some signs of moderating, the labor market remains strong, which could reintroduce upside risk if demand does not soften further. The Committee will be patient in the near term but has not ruled out further increases should price pressures fail to continue cooling."
+  }
+]
