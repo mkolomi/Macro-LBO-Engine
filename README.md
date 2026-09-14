@@ -1,1 +1,85 @@
-IyBNYWNyby1MQk8gRW5naW5lCgpBIHR3by1zdGFnZSBwaXBlbGluZTogc2NvcmUgdGhlIHRvbmUgb2YgYSBjZW50cmFsIGJhbmsgcG9saWN5IHN0YXRlbWVudCBhcyBoYXdraXNoIG9yIGRvdmlzaCwgdGhlbgp1c2UgdGhhdCBzY29yZSB0byBhZGp1c3QgdGhlIGFzc3VtZWQgZmxvYXRpbmcgaW50ZXJlc3QgcmF0ZSBpbiBhIGxldmVyYWdlZCBidXlvdXQgKExCTykgZGVidApzY2hlZHVsZS4KCiMjIFdoYXQgdGhpcyBpcwoKVGhpcyBwcm9qZWN0IGNvbm5lY3RzIHR3byB0aGluZ3MgdGhhdCBhcmUgdXN1YWxseSBhbmFseXplZCBzZXBhcmF0ZWx5OiB0aGUgbGFuZ3VhZ2UgY2VudHJhbCBiYW5rcwp1c2UgaW4gcG9saWN5IHN0YXRlbWVudHMsIGFuZCB0aGUgbWVjaGFuaWNzIG9mIGxldmVyYWdlZCBidXlvdXQgZGVidC4gSXQgdHVybnMgdGhlIHF1ZXN0aW9uICJpZiBhCmNlbnRyYWwgYmFuayBzdGF0ZW1lbnQgc291bmRzIG1vcmUgaGF3a2lzaCwgd2hhdCBkb2VzIHRoYXQgYWN0dWFsbHkgZG8gdG8gYSBoaWdobHkgbGV2ZXJlZCBkZWFsJ3MKZWNvbm9taWNzPyIgaW50byBhIGNvbXB1dGFibGUgcGlwZWxpbmUsIHJhdGhlciB0aGFuIGxlYXZpbmcgaXQgYXMgYSBxdWFsaXRhdGl2ZSBqdWRnbWVudCBjYWxsLgoKSXQgaGFzIHR3byBsaW5rZWQgcGFydHM6CgoxLiAqKkEgdG9uZSBzY29yZXIqKiAoYHNyYy9zZW50aW1lbnQucHlgKSB0aGF0IHJlYWRzIGEgY2VudHJhbCBiYW5rIHN0YXRlbWVudCBhbmQgcHJvZHVjZXMgYSBzaW5nbGUKICAgbnVtYmVyIOKAlCB0aGUgImhhd2tpc2ggaW5kZXgiIOKAlCByZXByZXNlbnRpbmcgdGhlIG5ldCBoYXdraXNoLXZzLWRvdmlzaCBsYW5ndWFnZSBpbiB0aGUgdGV4dC4KMi4gKipBbiBMQk8gZGVidCBzY2hlZHVsZSBtb2RlbCoqIChgc3JjL2xib19zY2hlZHVsZS5weWApIHRoYXQgdGFrZXMgdGhhdCBoYXdraXNoIGluZGV4LCBjb252ZXJ0cyBpdAogICBpbnRvIGEgZmxvYXRpbmctcmF0ZSBhZGp1c3RtZW50LCBhbmQgYnVpbGRzIGEgZnVsbCB5ZWFyLWJ5LXllYXIgaW50ZXJlc3QgYW5kIGFtb3J0aXphdGlvbgogICBzY2hlZHVsZSBmb3IgYSBsb2FuIHVuZGVyIHRoYXQgYWRqdXN0ZWQgcmF0ZS4KCkEgU3RyZWFtbGl0IGFwcCB0aWVzIHRoZSB0d28gdG9nZXRoZXI6IHBpY2sgb3IgcGFzdGUgaW4gYSBzdGF0ZW1lbnQgYW5kIHNlZSBib3RoIGl0cyB0b25lIHNjb3JlIGFuZAp0aGUgcmVzdWx0aW5nIGRlYnQgc2NoZWR1bGUgdXBkYXRlIHNpZGUgYnkgc2lkZS4KCiMjIENvbnRlbnRzCgotICoqYHNyYy9mZWRfbGV4aWNvbi5weWAqKiDigJQgYSBoYW5kLWJ1aWx0IGxpc3Qgb2YgaGF3a2lzaCBhbmQgZG92aXNoIHdvcmRzIGFuZCBwaHJhc2VzIHNwZWNpZmljIHRvCiAgY2VudHJhbCBiYW5rIHJhdGUtZGVjaXNpb24gbGFuZ3VhZ2UgKGZvciBleGFtcGxlLCAicmVzdHJpY3RpdmUiIG9yICJlbGV2YXRlZCBpbmZsYXRpb24iIHZlcnN1cwogICJhY2NvbW1vZGF0aXZlIiBvciAiZG93bnNpZGUgcmlza3MiKS4gVGhpcyBpcyBhIG5hcnJvdywgcHVycG9zZS1idWlsdCBsZXhpY29uIGZvciBtb25ldGFyeSBwb2xpY3kKICB0b25lLCBub3QgYSBnZW5lcmFsLXB1cnBvc2UgZmluYW5jZSBzZW50aW1lbnQgZGljdGlvbmFyeSBzdWNoIGFzIExvdWdocmFuLU1jRG9uYWxkLgotICoqYHNyYy9zZW50aW1lbnQucHlgKiog4oCUIHNjYW5zIGEgc3RhdGVtZW50J3MgdGV4dCwgY291bnRzIGhhd2tpc2ggYW5kIGRvdmlzaCBoaXRzIGFnYWluc3QgdGhlCiAgbGV4aWNvbiwgYW5kIGNvbXB1dGVzIGBoYXdraXNoX2luZGV4ID0gKGhhd2tpc2hfaGl0cyAtIGRvdmlzaF9oaXRzKSAvIHRvdGFsX3dvcmRzYC4gVGhpcyBydW5zCiAgZW50aXJlbHkgb2ZmbGluZSB3aXRoIG5vIGV4dGVybmFsIEFQSSBjYWxscywgc28gZXZlcnkgc2NvcmUgY2FuIGJlIHRyYWNlZCBiYWNrIHRvIHRoZSBzcGVjaWZpYwogIHdvcmRzIHRoYXQgcHJvZHVjZWQgaXQuCi0gKipgc3JjL2xsbV9zZW50aW1lbnQucHlgKiog4oCUIGFuIG9wdGlvbmFsIHNlY29uZCBzY29yaW5nIG1ldGhvZCB0aGF0IHNlbmRzIHRoZSBzdGF0ZW1lbnQgdG8gYW4gTExNCiAgKHZpYSB0aGUgQW50aHJvcGljIEFQSSkgYW5kIGFza3MgaXQgdG8gcmF0ZSB0b25lIGRpcmVjdGx5LCBhcyBhIHBvaW50IG9mIGNvbXBhcmlzb24gYWdhaW5zdCB0aGUKICBrZXl3b3JkLWJhc2VkIHNjb3JlLiBUaGlzIG9ubHkgcnVucyBpZiBhbiBgQU5USFJPUElDX0FQSV9LRVlgIGVudmlyb25tZW50IHZhcmlhYmxlIGlzIHNldDsgdGhlCiAgcmVzdCBvZiB0aGUgcGlwZWxpbmUgd29ya3Mgd2l0aG91dCBpdC4KLSAqKmBzcmMvbGJvX3NjaGVkdWxlLnB5YCoqIOKAlCB0YWtlcyBhIGBoYXdraXNoX2luZGV4YCwgbWFwcyBpdCB0byBhIHJhdGUgYWRqdXN0bWVudCBpbiBiYXNpcyBwb2ludHMKICAoY2FwcGVkIGF0IMKxMjAwYnBzIHNvIGEgc2luZ2xlIHN0YXRlbWVudCBjYW4ndCBwcm9kdWNlIGFuIHVucmVhbGlzdGljIHN3aW5nKSwgYW5kIGJ1aWxkcyBhCiAgbXVsdGkteWVhciBpbnRlcmVzdCBhbmQgYW1vcnRpemF0aW9uIHNjaGVkdWxlIGZvciBhIGZsb2F0aW5nLXJhdGUgbG9hbiBhdCB0aGF0IGFkanVzdGVkIHJhdGUuIEFsc28KICBnZW5lcmF0ZXMgYSBzZW5zaXRpdml0eSB0YWJsZSBzaG93aW5nIGhvdyB0aGUgc2NoZWR1bGUgY2hhbmdlcyBhY3Jvc3MgYSByYW5nZSBvZiBwb3NzaWJsZSB0b25lCiAgc2NvcmVzLgotICoqYGRhdGEvc2FtcGxlX3N0YXRlbWVudHMuanNvbmAqKiDigJQgZm91ciBpbGx1c3RyYXRpdmUgc3RhdGVtZW50cyAoaGF3a2lzaCwgZG92aXNoLCBuZXV0cmFsLCBhbmQKICBtaXhlZCkgd3JpdHRlbiB0byBjaGVjayB0aGUgc2NvcmVyJ3MgYmVoYXZpb3IgYWNyb3NzIGRpZmZlcmVudCB0b25lcy4gVGhlc2UgYXJlIHN5bnRoZXRpYwogIGV4YW1wbGVzLCBub3QgcmVhbCBGT01DIHN0YXRlbWVudHMg4oCUIGZvciBhbmFseXNpcyBhZ2FpbnN0IHJlYWwgY2VudHJhbCBiYW5rIGNvbW11bmljYXRpb24sIHNvdXJjZQogIHN0YXRlbWVudHMgZGlyZWN0bHkgZnJvbQogIFtmZWRlcmFscmVzZXJ2ZS5nb3YvbmV3c2V2ZW50cy9wcmVzc3JlbGVhc2VzXShodHRwczovL3d3dy5mZWRlcmFscmVzZXJ2ZS5nb3YvbmV3c2V2ZW50cy9wcmVzc3JlbGVhc2VzLmh0bSkuCi0gKipgYXBwLnB5YCoqIOKAlCBhIFN0cmVhbWxpdCBkYXNoYm9hcmQgY29tYmluaW5nIGJvdGggcGllY2VzOiBzZWxlY3Qgb3IgcGFzdGUgYSBzdGF0ZW1lbnQsIHNlZSBpdHMKICBoYXdraXNoIGluZGV4LCBhbmQgc2VlIHRoZSByZXN1bHRpbmcgZGVidCBzY2hlZHVsZSB1cGRhdGUgbGl2ZS4KCiMjIFJ1bm5pbmcgaXQKCmBgYGJhc2gKcGlwIGluc3RhbGwgLXIgcmVxdWlyZW1lbnRzLnR4dAoKcHl0aG9uIHNyYy9zZW50aW1lbnQucHkgICAgICAgIyBzY29yZXMgdGhlIDQgc2FtcGxlIHN0YXRlbWVudHMKcHl0aG9uIHNyYy9sYm9fc2NoZWR1bGUucHkgICAgIyBwcmludHMgYSBiYXNlLWNhc2Ugc2NoZWR1bGUgKyB0b25lIHNlbnNpdGl2aXR5IHRhYmxlCgpzdHJlYW1saXQgcnVuIGFwcC5weSAgICAgICAgICAjIGludGVyYWN0aXZlIGRhc2hib2FyZCBjb21iaW5pbmcgYm90aApgYGAKCiMjIE1ldGhvZG9sb2d5IG5vdGVzCgotIFRoZSBrZXl3b3JkLWRlbnNpdHkgYXBwcm9hY2ggdG8gdG9uZSBzY29yaW5nIGlzIHRoZSBzYW1lIGZpcnN0LXBhc3MgbWV0aG9kIHVzZWQgYmVmb3JlIGxheWVyaW5nIG9uCiAgYW55dGhpbmcgbW9yZSBleHBlbnNpdmUsIHN1Y2ggYXMgTExNIHNjb3Jpbmcgb3IgYSBodW1hbiByZWFkaW5nIG9mIHRoZSBmdWxsIHRleHQuIEl0cyBtYWluCiAgc3RyZW5ndGggaXMgdGhhdCBpdCdzIGZ1bGx5IGF1ZGl0YWJsZSDigJQgZXZlcnkgcG9pbnQgb2YgdGhlIHNjb3JlIHRyYWNlcyBiYWNrIHRvIHNwZWNpZmljIHdvcmRzIGluCiAgdGhlIHRleHQg4oCUIGF0IHRoZSBjb3N0IG9mIG1pc3NpbmcgdG9uZSBjb252ZXllZCB0aHJvdWdoIHNlbnRlbmNlIHN0cnVjdHVyZSwgbmVnYXRpb24sIG9yIGNvbnRleHQKICB0aGF0IGluZGl2aWR1YWwgd29yZHMgZG9uJ3QgY2FwdHVyZS4KLSBUaGUgYGhhd2tpc2hfaW5kZXhgIGlzIGRlbGliZXJhdGVseSBzbWFsbCBpbiBtYWduaXR1ZGUg4oCUIHJlYWwgc3RhdGVtZW50cyB0eXBpY2FsbHkgbGFuZCBpbiByb3VnaGx5CiAgdGhlIMKxMC4wMyByYW5nZSDigJQgc2luY2UgaXQncyBub3JtYWxpemVkIGJ5IHRvdGFsIHdvcmQgY291bnQuIFRoZSBMQk8gbW9kZWwgaXMgYnVpbHQgdG8gc2NhbGUgYW5kCiAgY2xhbXAgdGhpcyB2YWx1ZSByYXRoZXIgdGhhbiBhc3N1bWUgYW55IHBhcnRpY3VsYXIgcmFuZ2UgaG9sZHMgZXhhY3RseS4KLSBUaGUgbWFwcGluZyBmcm9tIGhhd2tpc2ggaW5kZXggdG8gYSBiYXNpcy1wb2ludCByYXRlIGFkanVzdG1lbnQgKGBicHNfcGVyX2hhd2tpc2hfaW5kZXhfdW5pdGAsCiAgY2FwcGVkIGF0IMKxMjAwYnBzKSBpcyBhIHNpbXBsaWZ5aW5nIGFzc3VtcHRpb24gY2hvc2VuIHRvIGRlbW9uc3RyYXRlIHRoZSBtZWNoYW5pc20g4oCUIHRvbmUgZmxvd2luZwogIGludG8gYSBmb3J3YXJkIHJhdGUgYXNzdW1wdGlvbiBmbG93aW5nIGludG8gaW50ZXJlc3QgZXhwZW5zZSDigJQgcmF0aGVyIHRoYW4gYSBtb2RlbCBjYWxpYnJhdGVkCiAgYWdhaW5zdCBob3cgdGhlIEZlZCBhY3R1YWxseSBzZXRzIHJhdGVzLgoKIyMgTGltaXRhdGlvbnMKCi0gVGhlIGxleGljb24tYmFzZWQgc2NvcmVyIG9ubHkgcmVjb2duaXplcyB0b25lIGNvbnZleWVkIHRocm91Z2ggc3BlY2lmaWMga25vd24gd29yZHMgYW5kIHBocmFzZXM7CiAgaXQgY2FuIG1pc3MgdG9uZSBjb252ZXllZCBtb3JlIHN1YnRseSBhbmQgY2FuIGJlIHRocm93biBvZmYgYnkgdW51c3VhbCBwaHJhc2luZy4KLSBUaGUgcmF0ZS1hZGp1c3RtZW50IG1hcHBpbmcgaXMgaWxsdXN0cmF0aXZlLCBub3QgZW1waXJpY2FsbHkgZml0IHRvIGhpc3RvcmljYWwgRmVkIGRlY2lzaW9ucyBvcgogIGFjdHVhbCBjcmVkaXQgc3ByZWFkIGRhdGEuCi0gVGhlIHNhbXBsZSBzdGF0ZW1lbnRzIGFyZSBzeW50aGV0aWM7IHJlc3VsdHMgb24gcmVhbCBzdGF0ZW1lbnRzIHNob3VsZCBiZSBjaGVja2VkIGFnYWluc3QgdGhlCiAgYWN0dWFsIHNvdXJjZSB0ZXh0IGJlZm9yZSBiZWluZyB0cmVhdGVkIGFzIG1lYW5pbmdmdWwuCg==
+# Macro-LBO Engine
+
+A two-stage pipeline: score the tone of a central bank policy statement as hawkish or dovish, then
+use that score to adjust the assumed floating interest rate in a leveraged buyout (LBO) debt
+schedule.
+
+## What this is
+
+This project connects two things that are usually analyzed separately: the language central banks
+use in policy statements, and the mechanics of leveraged buyout debt. It turns the question "if a
+central bank statement sounds more hawkish, what does that actually do to a highly levered deal's
+economics?" into a computable pipeline, rather than leaving it as a qualitative judgment call.
+
+It has two linked parts:
+
+1. **A tone scorer** (`src/sentiment.py`) that reads a central bank statement and produces a single
+   number — the "hawkish index" — representing the net hawkish-vs-dovish language in the text.
+2. **An LBO debt schedule model** (`src/lbo_schedule.py`) that takes that hawkish index, converts it
+   into a floating-rate adjustment, and builds a full year-by-year interest and amortization
+   schedule for a loan under that adjusted rate.
+
+A Streamlit app ties the two together: pick or paste in a statement and see both its tone score and
+the resulting debt schedule update side by side.
+
+## Contents
+
+- **`src/fed_lexicon.py`** — a hand-built list of hawkish and dovish words and phrases specific to
+  central bank rate-decision language (for example, "restrictive" or "elevated inflation" versus
+  "accommodative" or "downside risks"). This is a narrow, purpose-built lexicon for monetary policy
+  tone, not a general-purpose finance sentiment dictionary such as Loughran-McDonald.
+- **`src/sentiment.py`** — scans a statement's text, counts hawkish and dovish hits against the
+  lexicon, and computes `hawkish_index = (hawkish_hits - dovish_hits) / total_words`. This runs
+  entirely offline with no external API calls, so every score can be traced back to the specific
+  words that produced it.
+- **`src/llm_sentiment.py`** — an optional second scoring method that sends the statement to an LLM
+  (via the Anthropic API) and asks it to rate tone directly, as a point of comparison against the
+  keyword-based score. This only runs if an `ANTHROPIC_API_KEY` environment variable is set; the
+  rest of the pipeline works without it.
+- **`src/lbo_schedule.py`** — takes a `hawkish_index`, maps it to a rate adjustment in basis points
+  (capped at ±200bps so a single statement can't produce an unrealistic swing), and builds a
+  multi-year interest and amortization schedule for a floating-rate loan at that adjusted rate. Also
+  generates a sensitivity table showing how the schedule changes across a range of possible tone
+  scores.
+- **`data/sample_statements.json`** — four illustrative statements (hawkish, dovish, neutral, and
+  mixed) written to check the scorer's behavior across different tones. These are synthetic
+  examples, not real FOMC statements — for analysis against real central bank communication, source
+  statements directly from
+  [federalreserve.gov/newsevents/pressreleases](https://www.federalreserve.gov/newsevents/pressreleases.htm).
+- **`app.py`** — a Streamlit dashboard combining both pieces: select or paste a statement, see its
+  hawkish index, and see the resulting debt schedule update live.
+
+## Running it
+
+```bash
+pip install -r requirements.txt
+
+python src/sentiment.py       # scores the 4 sample statements
+python src/lbo_schedule.py    # prints a base-case schedule + tone sensitivity table
+
+streamlit run app.py          # interactive dashboard combining both
+```
+
+## Methodology notes
+
+- The keyword-density approach to tone scoring is the same first-pass method used before layering on
+  anything more expensive, such as LLM scoring or a human reading of the full text. Its main
+  strength is that it's fully auditable — every point of the score traces back to specific words in
+  the text — at the cost of missing tone conveyed through sentence structure, negation, or context
+  that individual words don't capture.
+- The `hawkish_index` is deliberately small in magnitude — real statements typically land in roughly
+  the ±0.03 range — since it's normalized by total word count. The LBO model is built to scale and
+  clamp this value rather than assume any particular range holds exactly.
+- The mapping from hawkish index to a basis-point rate adjustment (`bps_per_hawkish_index_unit`,
+  capped at ±200bps) is a simplifying assumption chosen to demonstrate the mechanism — tone flowing
+  into a forward rate assumption flowing into interest expense — rather than a model calibrated
+  against how the Fed actually sets rates.
+
+## Limitations
+
+- The lexicon-based scorer only recognizes tone conveyed through specific known words and phrases;
+  it can miss tone conveyed more subtly and can be thrown off by unusual phrasing.
+- The rate-adjustment mapping is illustrative, not empirically fit to historical Fed decisions or
+  actual credit spread data.
+- The sample statements are synthetic; results on real statements should be checked against the
+  actual source text before being treated as meaningful.
